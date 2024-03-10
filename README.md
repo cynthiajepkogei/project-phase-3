@@ -1,6 +1,7 @@
 # project-phase-3
 
 # Customer Churn Prediction using Machine Learning
+ | Author Cynthia Jepkogei |
 
 ## Business Understanding
 
