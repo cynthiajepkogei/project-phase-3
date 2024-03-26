@@ -43,6 +43,8 @@ Examining the target variable "churn" distribution, a categorical variable indic
 
 ## Model Tuning
 
+![alt text](<Images/ROC curve.png>)
+
 - Tuning parameters for Decision Tree and XGBoost classifiers.
 
 ## Conclusion
